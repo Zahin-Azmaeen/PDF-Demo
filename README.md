@@ -3,3 +3,5 @@
 
 
 ![bitm](https://github.com/user-attachments/assets/13dc20eb-ac39-4fa1-a5ba-7620f4b910da)
+<br>
+[git.pdf](https://github.com/user-attachments/files/17827331/git.pdf)
